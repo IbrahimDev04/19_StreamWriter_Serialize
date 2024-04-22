@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\19_StreamWriter_Serialize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9546CF91-EAA6-42E6-85D0-218C9E91C6C1}|19_StreamWriter_Serialize\\19_StreamWriter_Serialize.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\19_streamwriter_serialize\\19_streamwriter_serialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9546CF91-EAA6-42E6-85D0-218C9E91C6C1}|19_StreamWriter_Serialize\\19_StreamWriter_Serialize.csproj|solutionrelative:19_streamwriter_serialize\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9546CF91-EAA6-42E6-85D0-218C9E91C6C1}|19_StreamWriter_Serialize\\19_StreamWriter_Serialize.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\19_streamwriter_serialize\\19_streamwriter_serialize\\files\\name.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9546CF91-EAA6-42E6-85D0-218C9E91C6C1}|19_StreamWriter_Serialize\\19_StreamWriter_Serialize.csproj|solutionrelative:19_streamwriter_serialize\\files\\name.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Name.json",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\19_StreamWriter_Serialize\\19_StreamWriter_Serialize\\Files\\Name.json",
+              "RelativeDocumentMoniker": "19_StreamWriter_Serialize\\Files\\Name.json",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\19_StreamWriter_Serialize\\19_StreamWriter_Serialize\\Files\\Name.json",
+              "RelativeToolTip": "19_StreamWriter_Serialize\\Files\\Name.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T14:14:15.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\19_StreamWriter_Serialize\\19_StreamWriter_Serialize\\Program.cs",
+              "RelativeDocumentMoniker": "19_StreamWriter_Serialize\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\19_StreamWriter_Serialize\\19_StreamWriter_Serialize\\Program.cs",
+              "RelativeToolTip": "19_StreamWriter_Serialize\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:10:48.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\bin\Debug\net6.0\19_StreamWriter_Serialize.exe
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\bin\Debug\net6.0\19_StreamWriter_Serialize.deps.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\bin\Debug\net6.0\19_StreamWriter_Serialize.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\bin\Debug\net6.0\19_StreamWriter_Serialize.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\bin\Debug\net6.0\19_StreamWriter_Serialize.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_StreamWriter_Serialize.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_StreamWriter_Serialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_StreamWriter_Serialize.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_StreamWriter_Serialize.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_StreamWriter_Serialize.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_Strea.5EA40093.Up2Date
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_StreamWriter_Serialize.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\refint\19_StreamWriter_Serialize.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_StreamWriter_Serialize.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_StreamWriter_Serialize.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\ref\19_StreamWriter_Serialize.dll
