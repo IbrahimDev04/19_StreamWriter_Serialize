@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("19_StreamWriter_Serialize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cfede38bcf9d1b9d70550b4cb774a31c55c547d")]
 [assembly: System.Reflection.AssemblyProductAttribute("19_StreamWriter_Serialize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19_StreamWriter_Serialize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

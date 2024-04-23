@@ -15,3 +15,4 @@ C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_Stre
 C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_StreamWriter_Serialize.pdb
 C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_StreamWriter_Serialize.genruntimeconfig.cache
 C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\ref\19_StreamWriter_Serialize.dll
+C:\Users\ibrah\OneDrive\Masaüstü\CodeAcademy\19_StreamWriter_Serialize\19_StreamWriter_Serialize\obj\Debug\net6.0\19_StreamWriter_Serialize.sourcelink.json
